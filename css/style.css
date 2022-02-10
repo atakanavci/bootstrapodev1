@@ -1,0 +1,47 @@
+body{
+    background-color:  #0d0d0e00;
+}
+
+/*---İNDEX.HTML KISMI  ------*/
+nav .container-fluid .navbar-brand {
+    color: red;
+}
+
+.jumbotron {
+    text-align: center;
+}
+.display-4 {
+    color: red;
+}
+
+.lead {
+    font-size: 5px;
+}
+/*---ÜRÜNLERİMİZ KISMI  ------*/
+.card-body .img-1 {
+ padding-left: 15px;
+ margin-top: -16px;
+ height: 70%;
+
+}
+.card-text {
+    color: purple;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.card-text-2{
+    margin-top: -23px;
+    color: purple;
+    font-size: 15px;
+    font-weight: bold;
+}
+.img-2 {
+    height: 280px;
+    width: 270px;
+}
+.card-text-3 {
+    margin-top: 30px;
+    color: purple;
+    font-weight: bold;
+}
